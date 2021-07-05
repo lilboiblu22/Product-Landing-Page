@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="ProductLandingMaingPage.aspx.vb" Inherits="Product_Landing_Page.WebForm1" %>
+﻿@ Page Language="vb" AutoEventWireup="false" CodeBehind="ProductLandingMaingPage.aspx.vb" Inherits="Product_Landing_Page.WebForm1" %>
 <!--<link rel="stylesheet" type="text/css" href="LandingPage.css" />--->
 <link rel="stylesheet" type="text/css" href="Content/LandingPage.css" />
 <!DOCTYPE html>
@@ -20,8 +20,8 @@
 
     <nav id="nav-bar">
       <ul>
-        <li><a class="nav-link" href="#features">Features</a></li>
-        <li><a class="nav-link" href="#how-it-works">How It Works</a></li>
+        <li><a class="nav-link" href="#features">Quality</a></li>
+        <li><a class="nav-link" href="#how-it-works">Summer 2021 Catalogue</a></li>
         <li><a class="nav-link" href="#pricing">Pricing</a></li>
       </ul>
     </nav>
