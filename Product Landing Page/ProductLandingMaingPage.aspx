@@ -14,15 +14,15 @@
       <img
         id="header-img"
         src="Image/Logo.png"
-        alt="original trombones logo"
+        alt="More Life logo"
       />
     </div>
 
     <nav id="nav-bar">
       <ul>
-        <li><a class="nav-link" href="#features">Quality</a></li>
-        <li><a class="nav-link" href="#how-it-works">Summer 2021 Catalogue</a></li>
-        <li><a class="nav-link" href="#pricing">Pricing</a></li>
+        <li><a class="nav-link" href="#features">Men's</a></li>
+        <li><a class="nav-link" href="#how-it-works">Women's</a></li>
+        <li><a class="nav-link" href="#pricing">Summer 2021 Catalogue</a></li>
       </ul>
     </nav>
   </header>
@@ -30,7 +30,8 @@
   <div class="container"></div>
 
   <section id="hero">
-    <h2>Handcrafted, home-made masterpieces</h2>
+    <h2>Handcrafted, Timeless masterpieces</h2>
+      <p>Reserve a Consultation through email below.</p>
     <form id="form" action="https://www.freecodecamp.com/email-submit">
       <input
         name="email"
@@ -39,7 +40,7 @@
         placeholder="Enter your email address"
         required
       />
-      <input id="submit" type="submit" value="Get Started" class="btn" />
+      <input id="submit" type="submit" value="Let's Begin" class="btn" />
     </form>
   </section>
 
@@ -50,8 +51,8 @@
         <div class="desc">
           <h2>Premium Materials</h2>
           <p>
-            Our trombones use the shiniest brass which is sourced locally. This
-            will increase the longevity of your purchase.
+            Our Products deliver will deliver quality that is unrivaled. Our jewelery and clothing is sourced from the
+                            finest Materials from all over the world to bring unique and stunning products.
           </p>
         </div>
       </div>
@@ -60,8 +61,7 @@
         <div class="desc">
           <h2>Fast Shipping</h2>
           <p>
-            We make sure you recieve your trombone as soon as we have finished
-            making it. We also provide free returns if you are not satisfied.
+            We make sure you recieve your purchase within the time agreed between our consultants to deliver your product fast and of the highest quality.
           </p>
         </div>
       </div>
@@ -72,8 +72,7 @@
         <div class="desc">
           <h2>Quality Assurance</h2>
           <p>
-            For every purchase you make, we will ensure there are no damages or
-            faults and we will check and test the pitch of your instrument.
+            All of our products are guaranteed to satisfy all of our clients. Each product goes through a thorough quality check to ensure the best result for you.
           </p>
         </div>
       </div>
