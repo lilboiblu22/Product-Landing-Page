@@ -81,42 +81,42 @@
       <iframe
         id="video"
         height="315"
-        src="https://www.youtube-nocookie.com/embed/y8Yv4pnO7qc?rel=0&amp;controls=0&amp;showinfo=0"
+        src="https://www.youtube.com/embed/chWDbXKRFQY"
         frameborder="0"
         allowfullscreen="true"
       ></iframe>
     </section>
     <section id="pricing">
       <div class="product" id="tenor">
-        <div class="level">Tenor Trombone</div>
-        <h2>$600</h2>
+        <div class="level">Newest Styles</div>
+        <h2>New items every season</h2>
         <ol>
-          <li>Lorem ipsum.</li>
-          <li>Lorem ipsum.</li>
-          <li>Lorem ipsum dolor.</li>
-          <li>Lorem ipsum.</li>
+          <li>On top of our Summer Catalogue,</li>
+          <li>we offer other limited run items</li>
+          <li>that will not be available for</li>
+          <li>purchase afterwards.</li>
         </ol>
         <button class="btn">Select</button>
       </div>
       <div class="product" id="bass">
-        <div class="level">Bass Trombone</div>
-        <h2>$900</h2>
+        <div class="level">Newest Collaborations</div>
+        <h2>Creating New Possibilities</h2>
         <ol>
-          <li>Lorem ipsum.</li>
-          <li>Lorem ipsum.</li>
-          <li>Lorem ipsum dolor.</li>
-          <li>Lorem ipsum.</li>
+          <li>We team up with other luxury brands</li>
+          <li>such as Gucci and car manufacturer Aston Martin</li>
+          <li>to create unique and timeless</li>
+          <li>products</li>
         </ol>
         <button class="btn">Select</button>
       </div>
       <div class="product" id="valve">
-        <div class="level">Valve Trombone</div>
-        <h2>$1200</h2>
+        <div class="level">Meet our Design Team</div>
+        <h2>Best in Class</h2>
         <ol>
-          <li>Plays similar to a Trumpet</li>
-          <li>Great for Jazz Bands</li>
-          <li>Lorem ipsum dolor.</li>
-          <li>Lorem ipsum.</li>
+          <li>With a Design team that is committed</li>
+          <li>to creating beautiful pieces,</li>
+          <li>Your dreams are possible.</li>
+          <li>See who will show you what's possible.</li>
         </ol>
         <button class="btn">Select</button>
       </div>
@@ -127,7 +127,7 @@
         <li><a href="#">Terms</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
-      <span>Copyright 2016, Original Trombones</span>
+      <span>Copyright 2021, More Life Clothing Co.</span>
     </footer>
   </div>
 </div>
